@@ -1,6 +1,8 @@
 # Automatic mapcycle.txt updater (in C#)
 Automatic mapcycle.txt updater for Dedicated CSGO Servers, GREAT if you have A LOT of maps on your server.
 
+![Preview](https://i.imgur.com/RezqWoe.gif)
+
 ## Installation
 Place `AutoMapcycleUpdater.exe` in the same folder as `srcds.exe` then run it.
 
